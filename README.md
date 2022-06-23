@@ -9,7 +9,7 @@
 ### Languages I love
 - Python 
 - Lua
-- Matlab (despite its 1 based indexing)
+- Matlab
 - C++
 
 ### Contact Me:
