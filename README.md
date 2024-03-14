@@ -6,12 +6,6 @@
 - Old school projects
 - My own personal projects
 
-### Languages I love
-- Python 
-- Lua
-- Matlab
-- C++
-
 ### Contact Me:
 Feel free to contact me through Github or by commenting on any of my mods on the Nexus
 #### [Nexus profile](https://www.nexusmods.com/users/4138441)
